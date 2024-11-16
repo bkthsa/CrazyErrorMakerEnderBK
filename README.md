@@ -9,7 +9,7 @@ An app that create your own Crazy Error easily!
 ## Table of Contents
 
 - [Features](#features)
-- [Compiling your own app](#Compiling your own app)
+- [Compiling your own app](#Compiling)
 - [Usage](#usage)
 - [Contact](#contact)
 
@@ -20,7 +20,7 @@ An app that create your own Crazy Error easily!
 - No worries about editing, etc...
 - More features will be included in source code.
 
-## Compiling your own app
+## Compiling
 **Requirements**
 - Visual Basic 2010 or later
 - At least having some coding skills 🤓
