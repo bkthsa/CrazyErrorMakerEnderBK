@@ -9,7 +9,7 @@ An app that create your own Crazy Error easily!
 ## Table of Contents
 
 - [Features](#features)
-- [Compiling your own app](#Compiling)
+- [Compiling](#Compiling)
 - [Usage](#usage)
 - [Contact](#contact)
 
